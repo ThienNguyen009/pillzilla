@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Pillzilla" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#9616E0</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="textInputStyle">@style/Widget.Pillzilla.TextInputLayout</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="fontFamily">@font/montserrat</item>
+    </style>
+</resources>

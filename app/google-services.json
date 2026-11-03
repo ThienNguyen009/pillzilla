@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "285280816951",
+    "firebase_url": "https://pillzilla-5aa79-default-rtdb.firebaseio.com",
+    "project_id": "pillzilla-5aa79",
+    "storage_bucket": "pillzilla-5aa79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285280816951:android:b1d8b7f008609bba3f14b2",
+        "android_client_info": {
+          "package_name": "com.example.pillzilla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZh_0fAnCmok7VXlzefLJIOkYvqfzbrcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
